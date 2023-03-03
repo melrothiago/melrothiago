@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melrothiago
-- 👀 I’m interested in CyberSecurity, Data Analysis, Research and Python
+- 👀 I’m interested in CyberSecurity, Data Analysis, Research, Javascript and Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something that can reasure freedom and security
 - 📫 How to reach me melrothiago@gmail.com
